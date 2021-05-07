@@ -1,4 +1,4 @@
-[![Header](https://github.com/Myilvaganan/Expense Manager/blob/main/ProfileHeader.png "Header")](https://github.com/Myilvaganan/)
+[![Header](https://github.com/Myilvaganan/DevConnector/blob/main/ProfileHeader.png "Header")](https://github.com/Myilvaganan/)
 
 # Expense Manager MERN APP
 
@@ -15,6 +15,8 @@ https://expense-manager-myil.herokuapp.com/
 ## Github Repository
 
 https://github.com/Myilvaganan/ExpenseManager-MERN
+
+![Driwwwle Banner](docs/expenseManager.jpg)
 
 
 #### User authentication/login system
@@ -73,10 +75,9 @@ Expense Manager is a single page application (SPA) that utilises the dashboard c
 ## Wireframes
 
 ![Expense Manager Landing Page](docs/expense-tracker.jpg)
-![Expense Manager Register View](docs/RegisterScreen.jpg)
-![Expense Manager Login View](docs/LoginScreen.jpg)
-![Expense Manager Dashboard Page](docs/DashboardPage.jpg)
-![Expense Manager Transactions Page](docs/TransasctionsScreen.jpg)
+![Expense Manager Register View](docs/registerScreen.jpg)
+![Expense Manager Login View](docs/loginScreen.jpg)
+![Expense Manager Transactions Page](docs/TransactionsScreen.jpg)
 
 
 #### Thankyou...
